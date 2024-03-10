@@ -118,14 +118,14 @@ export default function ContactUs() {
                                     <i className="fas fa-envelope fa-2x text-primary me-4"></i>
                                     <div>
                                         <h4>Mail Us</h4>
-                                        <p className="mb-2"><a href="mailto:anishsingh77177@gmail.com">anishsingh77177@gmail.com</a></p>
+                                        <p className="mb-2"><a href="mailto:Shwetas2020a@gmail.com">Shwetas2020a@gmail.com</a></p>
                                     </div>
                                 </div>
                                 <div className="d-flex p-4 rounded bg-white">
                                     <i className="fa fa-phone fa-2x text-primary me-4"></i>
                                     <div>
                                         <h4>Telephone</h4>
-                                        <p className="mb-2"><a href="tel:7717761569">7717761569</a></p>
+                                        <p className="mb-2"><a href="tel:8800938874">8800938874</a></p>
                                     </div>
                                 </div>
                             </div>

@@ -11,6 +11,10 @@
     {
       "id": "220a",
       "name": "Male"
+    },
+    {
+      "id": "92cb",
+      "name": "male"
     }
   ],
   "subcategory": [
@@ -41,10 +45,6 @@
     {
       "id": "9b0b",
       "name": "Traditional"
-    },
-    {
-      "id": "01dc",
-      "name": "Three Piece"
     }
   ],
   "brand": [
@@ -671,22 +671,22 @@
   "newsletter": [
     {
       "id": "e6a6",
-      "email": "anishsingh77177@gmail.com"
+      "email": "Shwetas2020a@gmail.com"
     },
     {
       "id": "7619",
-      "email": "anishsingh77177@gmail.com"
+      "email": "Shwetas2020a@gmail.com"
     },
     {
       "id": "aa4c",
-      "email": "anishsingh77177@gmail.com"
+      "email": "Shwetas2020a@gmail.com"
     }
   ],
   "contactus": [
     {
       "id": "359f",
       "name": "Nitin Chauhan",
-      "email": "anishsingh77177@gmail.com",
+      "email": "Shwetas2020a@gmail.com",
       "phone": "9873848046",
       "subject": "AI that makes you more productive",
       "message": "This is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample Message",
@@ -696,8 +696,8 @@
     {
       "id": "75cb",
       "name": "Anish kumar",
-      "email": "anishsingh77177@gmail.com",
-      "phone": "7717761569",
+      "email": "Shwetas2020a@gmail.com",
+      "phone": "8800938874",
       "subject": "ffgfgg",
       "message": "dfdfdfdfdfdfdfdfdfddfdfdfdfddffffffffffffffffffffffffffffffff",
       "date": "2024-03-03T18:48:47.665Z",
@@ -707,10 +707,20 @@
       "id": "d267",
       "name": "Shweta Sehrawat",
       "email": "shwetas@2020gmail.com",
-      "phone": "7717761569",
+      "phone": "8800938874",
       "subject": "not needed",
       "message": "message is required within 50 word and should be fillded",
       "date": "2024-03-03T20:38:18.450Z",
+      "active": true
+    },
+    {
+      "id": "8c16",
+      "name": "Shweta Sehrawat",
+      "email": "shwetas@2020gmail.com",
+      "phone": "8800938874",
+      "subject": "dggdfhfhfhfhfh",
+      "message": "fhfhfjtjtjtjrtrfdgfgfgfgfhfhhfhffhhffhfhfhfhfhfhfhfhf",
+      "date": "2024-03-10T16:12:32.235Z",
       "active": true
     }
   ],

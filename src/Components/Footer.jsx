@@ -97,9 +97,9 @@ export default function Footer() {
                             <div className="footer-item">
                                 <h4 className="text-light mb-3">Contact</h4>
                                 <p className='text-light'>Address: Spaze-4, Sector 84,gurgaon </p>
-                                <p className='text-light'>Email: <a className='text-light' href="mailto:anishsingh77177@gmail.com">anishsingh77177@gmail.com</a></p>
-                                <p className='text-light'>Phone: <a className='text-light' href="tel:+917717761569">+91-7717761569</a></p>
-                                <p className='text-light'>Phone: <a className='text-light' href="https://wa.me/+917717761569">+91-7717761569</a></p>
+                                <p className='text-light'>Email: <a className='text-light' href="mailto:Shwetas2020a@gmail.com">Shwetas2020a@gmail.com</a></p>
+                                <p className='text-light'>Phone: <a className='text-light' href="tel:+918800938874">+91-8800938874</a></p>
+                                <p className='text-light'>Phone: <a className='text-light' href="https://wa.me/+918800938874">+91-8800938874</a></p>
                             </div>
                         </div>
                     </div>
